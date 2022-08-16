@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamesjhonatan123](https://github.com/jamesjhonatan123)
 
-- My personal Site is [https://devjonatas.com.br](https://devjonatas.com.br)
+- 👋 My personal Site is [https://devjonatas.com.br](https://devjonatas.com.br)
 
 - 💬 Ask me about **React, Javascript, Typescript, HTML, Styled Components, Docker...**
 
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesjhonatan123&show_icons=true&locale=en" alt="jamesjhonatan123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesjhonatan123&" alt="jamesjhonatan123" /></p>
-
