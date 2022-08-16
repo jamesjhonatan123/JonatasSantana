@@ -1,5 +1,5 @@
 # Jonatas Santana
-![site devjonatas com br](https://user-images.githubusercontent.com/94985801/184908208-7ff77364-d5b2-4503-b7ee-fe135ddae216.png)
+![site devjonatas com br (1)](https://user-images.githubusercontent.com/94985801/184908953-e0cf148a-444e-417e-bb27-5113cbdf6d50.png)
 <h1 align="center">Hi 👋, I'm Jonatas Santana Souza</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjhonatan123&label=Profile%20views&color=0e75b6&style=flat" alt="jamesjhonatan123" /> </p>
