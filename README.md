@@ -1,7 +1,7 @@
 # Jonatas Santana
+![site devjonatas com br](https://user-images.githubusercontent.com/94985801/184908208-7ff77364-d5b2-4503-b7ee-fe135ddae216.png)
 <h1 align="center">Hi 👋, I'm Jonatas Santana Souza</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjhonatan123&label=Profile%20views&color=0e75b6&style=flat" alt="jamesjhonatan123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesjhonatan123" alt="jamesjhonatan123" /></a> </p>
