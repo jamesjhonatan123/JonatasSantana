@@ -6,19 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesjhonatan123" alt="jamesjhonatan123" /></a> </p>
 
-- 🔭 I’m currently working on [Fundac project](https://github.com/raphab3/fundac-frontend)
-
-- 🌱 I’m currently learning **NodeJs and backend technologies**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jamesjhonatan123](https://github.com/jamesjhonatan123)
-
-- 👋 My personal Site is [https://devjonatas.com.br](https://devjonatas.com.br)
-
-- 💬 Ask me about **React, Javascript, Typescript, HTML, Styled Components, Docker...**
+- 💬 Ask me about **Node, React, Javascript, Typescript, Docker...**
 
 - 📫 How to reach me **webjonatasdeveloper@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/XeCnIb5w0](https://resume.io/r/XeCnIb5w0)
 
 - ⚡ Fun fact **I like to resolve complex problems for fun**
 
