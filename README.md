@@ -1,7 +1,7 @@
 # Jonatas Santana
 <h1 background align="center">Hi 👋, I'm Jonatas Santana Souza</h1>
 <p align="center"><img align="center" width="300px" height="200px" src="https://user-images.githubusercontent.com/94985801/184909189-fd7839c0-2389-4acd-b79a-cdc145dc201d.png" /></p>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate FullStack developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjhonatan123&label=Profile%20views&color=0e75b6&style=flat" alt="jamesjhonatan123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesjhonatan123" alt="jamesjhonatan123" /></a> </p>
